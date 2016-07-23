@@ -1,3 +1,4 @@
+
 /*Hey Prepstars!  By now, you should have a good understanding of the basics of Javascript.
 The following exericese will be a good review of the materials we covered in class:
 
@@ -7,13 +8,33 @@ Go get em!*/
 
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
-
+var yourName = "Jessie";
+  console.log(yourName);
+var neighborName = "Amy";
+  console.log(neighborName);
+var teacherName = "Vic";
+  console.log(teacherName);
 
 /*2. Variable with a Number as their value.
 Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear.  Console log each variable.*/
 
+var numberOfFloorsBurjKhalifa = 163;
+  console.log(numberOfFloorsBurjKhalifa);
+var TokyoOlympicsYear = 2020;
+  console.log(TokyoOlympicsYear);
+
+
+
 /*3. Variables with Boolean values
 Declare variables named lovesPrepClass, eatsDonuts, drinksGin.  Console log each variable.*/
+
+var lovesPrepClass = true;
+  console.log(lovesPrepClass);
+var eatsDonuts = true;
+  console.log(eatsDonuts);
+var drinksGin = false;
+  console.log(drinksGin);
+
 
 /*4. Variable with Null values
 Declare variables named completedCodingChallenge, traveledToSpace.  Console log each variable*/
